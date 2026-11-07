@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "id": "item_001",
+      "canonical_name": "Maggi 2-Minute Noodles",
+      "aliases": ["maggi", "meggi", "noodles", "maggie", "maggi packet"],
+      "unit": "packet",
+      "price_per_unit": 14.0,
+      "stock_qty": 50,
+      "category": "Instant Food"
+    },
+    {
+      "id": "item_002",
+      "canonical_name": "Tata Salt",
+      "aliases": ["tata namak", "namak", "salt", "tata salt"],
+      "unit": "packet",
+      "price_per_unit": 28.0,
+      "stock_qty": 30,
+      "category": "Spices & Condiments"
+    },
+    {
+      "id": "item_003",
+      "canonical_name": "Amul Butter (100g)",
+      "aliases": ["amul butter", "butter", "makkhan", "amul makkhan"],
+      "unit": "packet",
+      "price_per_unit": 60.0,
+      "stock_qty": 20,
+      "category": "Dairy"
+    },
+    {
+      "id": "item_004",
+      "canonical_name": "Aashirvaad Shudh Chakki Aata",
+      "aliases": ["aashirvaad aata", "ashirvad atta", "aata", "atta", "wheat flour", "chakki aata"],
+      "unit": "kg",
+      "price_per_unit": 46.0,
+      "stock_qty": 150.0,
+      "category": "Grains & Flours"
+    },
+    {
+      "id": "item_005",
+      "canonical_name": "Sugar (Cheeni)",
+      "aliases": ["cheeni", "sugar", "shakkar", "chini"],
+      "unit": "kg",
+      "price_per_unit": 44.0,
+      "stock_qty": 100.0,
+      "category": "Groceries"
+    },
+    {
+      "id": "item_006",
+      "canonical_name": "Fresh Dhaniya (Coriander)",
+      "aliases": ["dhaniya", "dhania", "coriander", "hara dhaniya", "dhaniya powder"],
+      "unit": "kg",
+      "price_per_unit": 120.0,
+      "stock_qty": 15.0,
+      "category": "Vegetables & Herbs"
+    },
+    {
+      "id": "item_007",
+      "canonical_name": "Toor Daal (Arhar)",
+      "aliases": ["toor daal", "arhar daal", "tuvar dal", "daal", "dal"],
+      "unit": "kg",
+      "price_per_unit": 140.0,
+      "stock_qty": 40.0,
+      "category": "Pulses"
+    },
+    {
+      "id": "item_008",
+      "canonical_name": "Fortune Sunlite Refined Oil (1L)",
+      "aliases": ["fortune oil", "refined oil", "tel", "oil", "sunflower oil", "cooking oil"],
+      "unit": "litre",
+      "price_per_unit": 150.0,
+      "stock_qty": 25.0,
+      "category": "Edible Oils"
+    },
+    {
+      "id": "item_009",
+      "canonical_name": "Jeera (Cumin Seeds)",
+      "aliases": ["jeera", "cumin", "zeera"],
+      "unit": "kg",
+      "price_per_unit": 320.0,
+      "stock_qty": 10.0,
+      "category": "Spices"
+    },
+    {
+      "id": "item_010",
+      "canonical_name": "Frooti Mango Drink (Peti/Box)",
+      "aliases": ["frooti", "mango frooti", "frooti peti", "frooti box"],
+      "unit": "box",
+      "price_per_unit": 240.0,
+      "stock_qty": 8,
+      "category": "Beverages"
+    },
+    {
+      "id": "item_011",
+      "canonical_name": "Basmati Rice (Bori/Sack 25kg)",
+      "aliases": ["chawal", "rice", "basmati", "chawal bori", "rice sack"],
+      "unit": "sack",
+      "price_per_unit": 1850.0,
+      "stock_qty": 12,
+      "category": "Grains & Flours"
+    },
+    {
+      "id": "item_012",
+      "canonical_name": "Haldi Powder (Turmeric)",
+      "aliases": ["haldi", "turmeric", "haldi powder"],
+      "unit": "kg",
+      "price_per_unit": 200.0,
+      "stock_qty": 18.0,
+      "category": "Spices"
+    }
+  ]
+}
+

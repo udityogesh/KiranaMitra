@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Test temporary artifacts
+test_*.db
+test_audio_tmp/
+
+# Streamlit
+.streamlit/
+
+# OS specific
+.DS_Store
+Thumbs.db
